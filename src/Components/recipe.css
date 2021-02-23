@@ -1,0 +1,11 @@
+.ingredient_box h3 {
+    font-size: 18px ! important;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.ingredient_box img {
+    box-shadow: 3px 0px 21px #ccc;
+}
+.ingredients-item span {
+    font-size: 14px;
+}
